@@ -6,6 +6,7 @@ date:       2024-06-14
 author:     Pockies
 header-img: img/66116bd0bc3729316.jpg
 catalog: true
+color: black
 tags:
     - 安全
 ---
