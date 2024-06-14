@@ -4,9 +4,8 @@ title:      Vaultwarden功能完善与数据安全
 subtitle:   安全很重要！
 date:       2024-06-14
 author:     Pockies
-header-img: img/66116bd0bc3729316.jpg
+header-img: img/cx9xMiM2MJ2NNm97qUxAfk-1200-80.png
 catalog: true
-color: black
 tags:
     - 安全
 ---
