@@ -6,7 +6,7 @@ email: buxiny@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, Frank的博客"
 url: "http://buxiny.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+#baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 #github_repo: "https://github.com" # you code repository
 
 # Sidebar settings
