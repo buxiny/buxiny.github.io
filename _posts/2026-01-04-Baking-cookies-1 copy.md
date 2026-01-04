@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      曲奇的烤制配方
+title:      曲奇的烤制配方-copy
 subtitle:   烘焙
 date:       2026-01-04
 author:     Jun.L
-header-img: img/post-Baking-1.jpg
+header-img: img/post-Baking-4.jpg
 catalog: true
 tags:
     - 烘焙
