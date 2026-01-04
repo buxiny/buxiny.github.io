@@ -37,6 +37,7 @@ tags:
 
 - 整形成圆柱形，直径  6~6.5mm。
 - 一份成型长度约为 22~23cm。
+![-.jpg](https://s2.loli.net/2026/01/04/FNCOloXkpx4Wf7h.jpg)
 
 ---
 
@@ -117,6 +118,6 @@ tags:
 **TIPS：**
 
 - 整形成长方体条状（长度约 18cm），切正方形片状，厚度 8mm - 10mm。
-
+![-.jpg](https://s2.loli.net/2026/01/04/VohytisHfgMGzaR.jpg)
 
 （完）
