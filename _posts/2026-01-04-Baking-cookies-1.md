@@ -38,7 +38,7 @@ tags:
 - 整形成圆柱形，直径  6~6.5mm。
 - 一份成型长度约为 22~23cm。
 
-![-.jpg](https://s2.loli.net/2026/01/04/FNCOloXkpx4Wf7h.jpg)
+![Gemini_Generated_Image_9k2n6i9k2n6i9k2n.jpg](https://s2.loli.net/2026/01/05/kzfcvlBE2bHxdRu.jpg)
 
 ---
 
